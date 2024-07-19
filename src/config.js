@@ -6,6 +6,6 @@ module.exports = {
     SLACK_SIGNING_SECRET: process.env.SLACK_SIGNING_SECRET,
     DEFAULT_SLACK_CHANNEL: process.env.DEFAULT_SLACK_CHANNEL,
     REPO_CHANNEL_MAP: {
-      'indian-upi-apps-logos': 'C07CU7W8MFZ',
+      'indian-upi-apps-logos': process.env.INDIAN_UPI_APPS_LOGOS_CHANNEL,
     }
   };
