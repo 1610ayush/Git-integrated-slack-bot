@@ -2,6 +2,8 @@
 
 This bot integrates GitHub with Slack, sending notifications for various Git events triggered on my project -> indian-upi-apps-logos (NPM package for Indian UPI apps logos so feel free to contribute).
 
+Here is Github link to project indian-upi-apps-logos - https://github.com/1610ayush/indian-upi-apps-logos
+
 Here is link to join the slack channel to receive notifications - https://gitnotificationstalk.slack.com/archives/C07CU7W8MFZ 
 
 ## Setup
